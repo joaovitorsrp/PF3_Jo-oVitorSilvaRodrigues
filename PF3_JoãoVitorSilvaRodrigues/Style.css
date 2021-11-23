@@ -1,0 +1,69 @@
+body{
+      background: url(images/tenor-1.gif) no-repeat;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      background-size: cover;
+      margin: 0;
+      padding: 0;
+      background-image: url("tenor-1.gif");
+     
+}
+header{
+   margin: 0 auto;    
+   text-align: left;
+   background-color: rgb(57, 154, 179);
+   border-radius: 5px;
+   width: 300px;
+   color: rgb(0, 0, 0);
+}
+footer{
+   bottom: 0;
+   position: fixed;
+   width: 100%;
+   text-align: left;
+}
+section{
+   border-radius: 10px;
+   background-color: rgb(57, 154, 179);
+   width: 300px;
+   margin: 0 auto;
+   padding: 15px;
+   text-align: left;
+   
+}
+.div1{
+color: white;
+margin-bottom: 10px;
+}
+.div2{
+color: white;
+margin-bottom: 10px;
+}
+.div3{
+color: white;
+margin-bottom: 10px;
+}
+.div4{
+   color: white;
+   margin-bottom: 10px;
+   }
+.btnC{
+   border-radius: 5px;
+   width: 100px;
+   height: 30px;
+   font-size: 15px;
+}
+.btnC:hover{
+background-color: rgb(0, 247, 255);
+}
+.result{
+   border-radius: 10px;
+   background-color:rgb(57, 154, 179) ;
+   padding: 10px;
+   margin-top: 5%;
+   color: azure;
+   text-align: left;
+}
+#tempo{
+   width: 58%;
+   text-align: center;
+}
